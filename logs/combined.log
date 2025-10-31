@@ -1894,3 +1894,13 @@
 {"level":"info","message":"📚 API Documentation: http://localhost:4000/api/docs (when available)","service":"user-management-api","timestamp":"2025-10-31T03:19:47.475Z"}
 {"level":"info","message":"Mongoose connected to MongoDB","service":"user-management-api","timestamp":"2025-10-31T03:19:47.488Z"}
 {"level":"info","message":"MongoDB Connected: localhost","service":"user-management-api","timestamp":"2025-10-31T03:19:47.489Z"}
+{"level":"info","message":"POST /api/v1/auth/login - ::1","service":"user-management-api","timestamp":"2025-10-31T03:22:19.276Z"}
+{"level":"info","message":"Audit logging - Creating log with data:","service":"user-management-api","timestamp":"2025-10-31T03:22:20.229Z"}
+{"level":"info","message":"GET /api/v1/users - ::1","service":"user-management-api","timestamp":"2025-10-31T03:22:26.456Z"}
+{"level":"info","message":"GET /api/v1/roles - ::1","service":"user-management-api","timestamp":"2025-10-31T03:22:57.542Z"}
+{"level":"info","message":"GET /api/v1/roles/permissions - ::1","service":"user-management-api","timestamp":"2025-10-31T03:23:00.166Z"}
+{"level":"info","message":"🚀 Server running on port 4000 in development mode","service":"user-management-api","timestamp":"2025-10-31T03:31:42.081Z"}
+{"level":"info","message":"🏥 Health check endpoint: http://localhost:4000/health","service":"user-management-api","timestamp":"2025-10-31T03:31:42.089Z"}
+{"level":"info","message":"📚 API Documentation: http://localhost:4000/api/docs (when available)","service":"user-management-api","timestamp":"2025-10-31T03:31:42.090Z"}
+{"level":"info","message":"Mongoose connected to MongoDB","service":"user-management-api","timestamp":"2025-10-31T03:31:42.151Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"user-management-api","timestamp":"2025-10-31T03:31:42.155Z"}

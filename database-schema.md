@@ -26,13 +26,7 @@ This document outlines the MongoDB schema design for the user management system,
   gender: String,              // Gender: 'male', 'female', 'other'
   phone: String,               // Phone number
   dateOfBirth: Date,           // Date of birth
-  address: {                   // Address object
-    street: String,
-    city: String,
-    state: String,
-    zipCode: String,
-    country: String
-  }
+  address:String ,
 }
 ```
 
